@@ -4,7 +4,7 @@
   "package": "strangequark.analogredstonelamp.mixin",
   "refmap": "${mod_id}.refmap.json",
   "compatibilityLevel": "JAVA_18",
-  "mixins": [],
+  "mixins": ["BlockStateLightMixin", "RedstoneLampBlockMixin"],
   "client": [],
   "server": [],
   "injectors": {
