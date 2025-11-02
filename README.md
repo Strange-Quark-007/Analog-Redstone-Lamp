@@ -7,21 +7,15 @@ receive.
 
 A signal of 1 gives a faint pulse, 15 burns bright — finally, your lamps understand subtlety.
 
----
-
 ## Requirements
 
 - Fabric API (only for Fabric Loader)
 
----
+## Note
 
-## Technical Note
-
-Because analog updates aren’t natively handled by vanilla’s redstone system, <br/>
-the lamp schedules a 1-tick delayed update to properly synchronize its level with changing power levels. <br/>
-This keeps visuals and behavior consistent — at the cost of a barely noticeable tick of patience.
-
----
+- This is a server-side only mod.
+- For multiplayer, the mod must be installed on the server.
+- Clients do not need the mod unless it's a single-player world.
 
 ## License
 
