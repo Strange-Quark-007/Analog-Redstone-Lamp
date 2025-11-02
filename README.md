@@ -13,9 +13,7 @@ A signal of 1 gives a faint pulse, 15 burns bright — finally, your lamps under
 
 ## Note
 
-- This is a server-side only mod.
-- For multiplayer, the mod must be installed on the server.
-- Clients do not need the mod unless it's a single-player world.
+- This mod is required both on client and server.
 
 ## License
 
